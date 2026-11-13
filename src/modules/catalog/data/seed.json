@@ -1,0 +1,1860 @@
+[
+ {
+  "slug": "mascara-lash-princess",
+  "name": "Mascara Lash Princess",
+  "category": "beaute-sante",
+  "subcategory": "maquillage",
+  "brand": "Essence",
+  "price": 6400,
+  "rating": 3.2,
+  "images": [
+   "/images/products/mascara-lash-princess/1.webp"
+  ]
+ },
+ {
+  "slug": "palette-fards-a-paupieres",
+  "name": "Palette fards à paupières",
+  "category": "beaute-sante",
+  "subcategory": "maquillage",
+  "brand": "Glamour Beauty",
+  "price": 12400,
+  "rating": 3.5,
+  "images": [
+   "/images/products/palette-fards-a-paupieres/1.webp"
+  ]
+ },
+ {
+  "slug": "rouge-a-levres-rouge",
+  "name": "Rouge à lèvres rouge",
+  "category": "beaute-sante",
+  "subcategory": "maquillage",
+  "brand": "Chic Cosmetics",
+  "price": 7900,
+  "rating": 5,
+  "images": [
+   "/images/products/rouge-a-levres-rouge/1.webp"
+  ]
+ },
+ {
+  "slug": "vernis-a-ongles-rouge",
+  "name": "Vernis à ongles rouge",
+  "category": "beaute-sante",
+  "subcategory": "maquillage",
+  "brand": "Nail Couture",
+  "price": 5900,
+  "rating": 4.9,
+  "images": [
+   "/images/products/vernis-a-ongles-rouge/1.webp"
+  ]
+ },
+ {
+  "slug": "calvin-klein-ck-one",
+  "name": "Calvin Klein CK One",
+  "category": "beaute-sante",
+  "subcategory": "parfums",
+  "brand": "Calvin Klein",
+  "price": 30900,
+  "rating": 5,
+  "images": [
+   "/images/products/calvin-klein-ck-one/1.webp",
+   "/images/products/calvin-klein-ck-one/2.webp",
+   "/images/products/calvin-klein-ck-one/3.webp"
+  ]
+ },
+ {
+  "slug": "chanel-coco-noir",
+  "name": "Chanel Coco Noir",
+  "category": "beaute-sante",
+  "subcategory": "parfums",
+  "brand": "Chanel",
+  "price": 79900,
+  "rating": 4.9,
+  "images": [
+   "/images/products/chanel-coco-noir/1.webp",
+   "/images/products/chanel-coco-noir/2.webp",
+   "/images/products/chanel-coco-noir/3.webp"
+  ]
+ },
+ {
+  "slug": "dior-j-adore",
+  "name": "Dior J'adore",
+  "category": "beaute-sante",
+  "subcategory": "parfums",
+  "brand": "Dior",
+  "price": 55400,
+  "rating": 4.4,
+  "images": [
+   "/images/products/dior-j-adore/1.webp",
+   "/images/products/dior-j-adore/2.webp",
+   "/images/products/dior-j-adore/3.webp"
+  ]
+ },
+ {
+  "slug": "dolce-et-gabbana-dolce-shine",
+  "name": "Dolce & Gabbana Dolce Shine",
+  "category": "beaute-sante",
+  "subcategory": "parfums",
+  "brand": "Dolce & Gabbana",
+  "price": 43400,
+  "rating": 4.6,
+  "images": [
+   "/images/products/dolce-et-gabbana-dolce-shine/1.webp",
+   "/images/products/dolce-et-gabbana-dolce-shine/2.webp",
+   "/images/products/dolce-et-gabbana-dolce-shine/3.webp"
+  ]
+ },
+ {
+  "slug": "gucci-bloom",
+  "name": "Gucci Bloom",
+  "category": "beaute-sante",
+  "subcategory": "parfums",
+  "brand": "Gucci",
+  "price": 49400,
+  "rating": 3.3,
+  "images": [
+   "/images/products/gucci-bloom/1.webp",
+   "/images/products/gucci-bloom/2.webp",
+   "/images/products/gucci-bloom/3.webp"
+  ]
+ },
+ {
+  "slug": "lit-annibale-colombo",
+  "name": "Lit Annibale Colombo",
+  "category": "maison-cuisine",
+  "subcategory": "meubles",
+  "brand": "Annibale Colombo",
+  "price": 1169900,
+  "rating": 5,
+  "images": [
+   "/images/products/lit-annibale-colombo/1.webp",
+   "/images/products/lit-annibale-colombo/2.webp",
+   "/images/products/lit-annibale-colombo/3.webp"
+  ]
+ },
+ {
+  "slug": "canape-annibale-colombo",
+  "name": "Canapé Annibale Colombo",
+  "category": "maison-cuisine",
+  "subcategory": "meubles",
+  "brand": "Annibale Colombo",
+  "price": 1539900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/canape-annibale-colombo/1.webp",
+   "/images/products/canape-annibale-colombo/2.webp",
+   "/images/products/canape-annibale-colombo/3.webp"
+  ]
+ },
+ {
+  "slug": "table-de-chevet-cerisier-africain",
+  "name": "Table de chevet cerisier africain",
+  "category": "maison-cuisine",
+  "subcategory": "meubles",
+  "brand": "Furniture Co.",
+  "price": 184900,
+  "rating": 3.5,
+  "images": [
+   "/images/products/table-de-chevet-cerisier-africain/1.webp",
+   "/images/products/table-de-chevet-cerisier-africain/2.webp",
+   "/images/products/table-de-chevet-cerisier-africain/3.webp"
+  ]
+ },
+ {
+  "slug": "fauteuil-de-direction-knoll",
+  "name": "Fauteuil de direction Knoll",
+  "category": "maison-cuisine",
+  "subcategory": "meubles",
+  "brand": "Knoll",
+  "price": 309900,
+  "rating": 5,
+  "images": [
+   "/images/products/fauteuil-de-direction-knoll/1.webp",
+   "/images/products/fauteuil-de-direction-knoll/2.webp",
+   "/images/products/fauteuil-de-direction-knoll/3.webp"
+  ]
+ },
+ {
+  "slug": "pommes-rouges-1-kg",
+  "name": "Pommes rouges 1 kg",
+  "category": "supermarche",
+  "subcategory": "fruits-legumes",
+  "brand": "Lagune Fresh",
+  "price": 1200,
+  "rating": 4.8,
+  "images": [
+   "/images/products/pommes-rouges-1-kg/1.webp"
+  ]
+ },
+ {
+  "slug": "croquettes-chat-2-kg",
+  "name": "Croquettes chat 2 kg",
+  "category": "supermarche",
+  "subcategory": "animalerie",
+  "brand": "Lagune Fresh",
+  "price": 5900,
+  "rating": 3.7,
+  "images": [
+   "/images/products/croquettes-chat-2-kg/1.webp"
+  ]
+ },
+ {
+  "slug": "huile-de-cuisson-5-l",
+  "name": "Huile de cuisson 5 L",
+  "category": "supermarche",
+  "subcategory": "epicerie",
+  "brand": "Lagune Fresh",
+  "price": 3100,
+  "rating": 5,
+  "images": [
+   "/images/products/huile-de-cuisson-5-l/1.webp"
+  ]
+ },
+ {
+  "slug": "croquettes-chien-4-kg",
+  "name": "Croquettes chien 4 kg",
+  "category": "supermarche",
+  "subcategory": "animalerie",
+  "brand": "Lagune Fresh",
+  "price": 6900,
+  "rating": 5,
+  "images": [
+   "/images/products/croquettes-chien-4-kg/1.webp"
+  ]
+ },
+ {
+  "slug": "ufs-frais-x30",
+  "name": "Œufs frais x30",
+  "category": "supermarche",
+  "subcategory": "produits-frais",
+  "brand": "Lagune Fresh",
+  "price": 1800,
+  "rating": 3.2,
+  "images": [
+   "/images/products/ufs-frais-x30/1.webp"
+  ]
+ },
+ {
+  "slug": "miel-naturel-500-g",
+  "name": "Miel naturel 500 g",
+  "category": "supermarche",
+  "subcategory": "epicerie",
+  "brand": "Lagune Fresh",
+  "price": 4300,
+  "rating": 4.6,
+  "images": [
+   "/images/products/miel-naturel-500-g/1.webp"
+  ]
+ },
+ {
+  "slug": "jus-d-orange-1-l",
+  "name": "Jus d'orange 1 L",
+  "category": "supermarche",
+  "subcategory": "boissons",
+  "brand": "Lagune Fresh",
+  "price": 2500,
+  "rating": 4.5,
+  "images": [
+   "/images/products/jus-d-orange-1-l/1.webp"
+  ]
+ },
+ {
+  "slug": "kiwis-1-kg",
+  "name": "Kiwis 1 kg",
+  "category": "supermarche",
+  "subcategory": "fruits-legumes",
+  "brand": "Lagune Fresh",
+  "price": 1500,
+  "rating": 5,
+  "images": [
+   "/images/products/kiwis-1-kg/1.webp"
+  ]
+ },
+ {
+  "slug": "lait-entier-1-l",
+  "name": "Lait entier 1 L",
+  "category": "supermarche",
+  "subcategory": "produits-frais",
+  "brand": "Lagune Fresh",
+  "price": 2100,
+  "rating": 3.2,
+  "images": [
+   "/images/products/lait-entier-1-l/1.webp"
+  ]
+ },
+ {
+  "slug": "cafe-nescafe-classic",
+  "name": "Café Nescafé Classic",
+  "category": "supermarche",
+  "subcategory": "epicerie",
+  "brand": "Nescafé",
+  "price": 4900,
+  "rating": 5,
+  "images": [
+   "/images/products/cafe-nescafe-classic/1.webp"
+  ]
+ },
+ {
+  "slug": "pommes-de-terre-2-kg",
+  "name": "Pommes de terre 2 kg",
+  "category": "supermarche",
+  "subcategory": "fruits-legumes",
+  "brand": "Lagune Fresh",
+  "price": 1400,
+  "rating": 5,
+  "images": [
+   "/images/products/pommes-de-terre-2-kg/1.webp"
+  ]
+ },
+ {
+  "slug": "proteine-whey-1-kg",
+  "name": "Protéine whey 1 kg",
+  "category": "sport-loisirs",
+  "subcategory": "nutrition-sportive",
+  "brand": "Ivoire Sport",
+  "price": 12400,
+  "rating": 4.8,
+  "images": [
+   "/images/products/proteine-whey-1-kg/1.webp"
+  ]
+ },
+ {
+  "slug": "oignons-rouges-1-kg",
+  "name": "Oignons rouges 1 kg",
+  "category": "supermarche",
+  "subcategory": "fruits-legumes",
+  "brand": "Lagune Fresh",
+  "price": 1200,
+  "rating": 4.8,
+  "images": [
+   "/images/products/oignons-rouges-1-kg/1.webp"
+  ]
+ },
+ {
+  "slug": "riz-parfume-5-kg",
+  "name": "Riz parfumé 5 kg",
+  "category": "supermarche",
+  "subcategory": "epicerie",
+  "brand": "Lagune Fresh",
+  "price": 3700,
+  "rating": 3.8,
+  "images": [
+   "/images/products/riz-parfume-5-kg/1.webp"
+  ]
+ },
+ {
+  "slug": "sodas-assortis-pack-6",
+  "name": "Sodas assortis pack 6",
+  "category": "supermarche",
+  "subcategory": "boissons",
+  "brand": "Lagune Fresh",
+  "price": 1200,
+  "rating": 5,
+  "images": [
+   "/images/products/sodas-assortis-pack-6/1.webp"
+  ]
+ },
+ {
+  "slug": "fraises-500-g",
+  "name": "Fraises 500 g",
+  "category": "supermarche",
+  "subcategory": "fruits-legumes",
+  "brand": "Lagune Fresh",
+  "price": 2500,
+  "rating": 3.7,
+  "images": [
+   "/images/products/fraises-500-g/1.webp"
+  ]
+ },
+ {
+  "slug": "eau-minerale-pack-6x1-5-l",
+  "name": "Eau minérale pack 6x1,5 L",
+  "category": "supermarche",
+  "subcategory": "boissons",
+  "brand": "Lagune Fresh",
+  "price": 600,
+  "rating": 5,
+  "images": [
+   "/images/products/eau-minerale-pack-6x1-5-l/1.webp"
+  ]
+ },
+ {
+  "slug": "balancelle-decorative",
+  "name": "Balancelle décorative",
+  "category": "maison-cuisine",
+  "subcategory": "decoration",
+  "brand": "Akwaba Home",
+  "price": 36900,
+  "rating": 3.8,
+  "images": [
+   "/images/products/balancelle-decorative/1.webp",
+   "/images/products/balancelle-decorative/2.webp",
+   "/images/products/balancelle-decorative/3.webp"
+  ]
+ },
+ {
+  "slug": "cadre-photo-arbre-de-famille",
+  "name": "Cadre photo arbre de famille",
+  "category": "maison-cuisine",
+  "subcategory": "decoration",
+  "brand": "Akwaba Home",
+  "price": 18400,
+  "rating": 5,
+  "images": [
+   "/images/products/cadre-photo-arbre-de-famille/1.webp"
+  ]
+ },
+ {
+  "slug": "plante-decorative",
+  "name": "Plante décorative",
+  "category": "maison-cuisine",
+  "subcategory": "decoration",
+  "brand": "Akwaba Home",
+  "price": 24900,
+  "rating": 5,
+  "images": [
+   "/images/products/plante-decorative/1.webp",
+   "/images/products/plante-decorative/2.webp",
+   "/images/products/plante-decorative/3.webp"
+  ]
+ },
+ {
+  "slug": "pot-de-fleurs-ceramique",
+  "name": "Pot de fleurs céramique",
+  "category": "maison-cuisine",
+  "subcategory": "decoration",
+  "brand": "Akwaba Home",
+  "price": 9400,
+  "rating": 3.6,
+  "images": [
+   "/images/products/pot-de-fleurs-ceramique/1.webp",
+   "/images/products/pot-de-fleurs-ceramique/2.webp",
+   "/images/products/pot-de-fleurs-ceramique/3.webp",
+   "/images/products/pot-de-fleurs-ceramique/4.webp"
+  ]
+ },
+ {
+  "slug": "lampe-de-table",
+  "name": "Lampe de table",
+  "category": "maison-cuisine",
+  "subcategory": "decoration",
+  "brand": "Akwaba Home",
+  "price": 30900,
+  "rating": 4.1,
+  "images": [
+   "/images/products/lampe-de-table/1.webp"
+  ]
+ },
+ {
+  "slug": "tasse-aluminium-noire",
+  "name": "Tasse aluminium noire",
+  "category": "maison-cuisine",
+  "subcategory": "cuisine",
+  "brand": "Baobab Kitchen",
+  "price": 3700,
+  "rating": 5,
+  "images": [
+   "/images/products/tasse-aluminium-noire/1.webp",
+   "/images/products/tasse-aluminium-noire/2.webp"
+  ]
+ },
+ {
+  "slug": "blender-1-5-l",
+  "name": "Blender 1,5 L",
+  "category": "maison-cuisine",
+  "subcategory": "electromenager",
+  "brand": "Baobab Kitchen",
+  "price": 24900,
+  "rating": 5,
+  "images": [
+   "/images/products/blender-1-5-l/1.webp",
+   "/images/products/blender-1-5-l/2.webp",
+   "/images/products/blender-1-5-l/3.webp",
+   "/images/products/blender-1-5-l/4.webp"
+  ]
+ },
+ {
+  "slug": "wok-acier-carbone",
+  "name": "Wok acier carbone",
+  "category": "maison-cuisine",
+  "subcategory": "cuisine",
+  "brand": "Baobab Kitchen",
+  "price": 18400,
+  "rating": 4.6,
+  "images": [
+   "/images/products/wok-acier-carbone/1.webp"
+  ]
+ },
+ {
+  "slug": "planche-a-decouper-bambou",
+  "name": "Planche à découper bambou",
+  "category": "maison-cuisine",
+  "subcategory": "cuisine",
+  "brand": "Baobab Kitchen",
+  "price": 7900,
+  "rating": 4.3,
+  "images": [
+   "/images/products/planche-a-decouper-bambou/1.webp"
+  ]
+ },
+ {
+  "slug": "plaque-electrique-2-feux",
+  "name": "Plaque électrique 2 feux",
+  "category": "maison-cuisine",
+  "subcategory": "electromenager",
+  "brand": "Baobab Kitchen",
+  "price": 30900,
+  "rating": 4.7,
+  "images": [
+   "/images/products/plaque-electrique-2-feux/1.webp",
+   "/images/products/plaque-electrique-2-feux/2.webp",
+   "/images/products/plaque-electrique-2-feux/3.webp",
+   "/images/products/plaque-electrique-2-feux/4.webp"
+  ]
+ },
+ {
+  "slug": "mixeur-plongeant",
+  "name": "Mixeur plongeant",
+  "category": "maison-cuisine",
+  "subcategory": "electromenager",
+  "brand": "Baobab Kitchen",
+  "price": 21900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/mixeur-plongeant/1.webp"
+  ]
+ },
+ {
+  "slug": "couteau-de-chef",
+  "name": "Couteau de chef",
+  "category": "maison-cuisine",
+  "subcategory": "cuisine",
+  "brand": "Baobab Kitchen",
+  "price": 9400,
+  "rating": 3.9,
+  "images": [
+   "/images/products/couteau-de-chef/1.webp"
+  ]
+ },
+ {
+  "slug": "boite-repas-isotherme",
+  "name": "Boîte repas isotherme",
+  "category": "maison-cuisine",
+  "subcategory": "cuisine",
+  "brand": "Baobab Kitchen",
+  "price": 7900,
+  "rating": 5,
+  "images": [
+   "/images/products/boite-repas-isotherme/1.webp"
+  ]
+ },
+ {
+  "slug": "four-micro-ondes-25-l",
+  "name": "Four micro-ondes 25 L",
+  "category": "maison-cuisine",
+  "subcategory": "electromenager",
+  "brand": "Baobab Kitchen",
+  "price": 55400,
+  "rating": 5,
+  "images": [
+   "/images/products/four-micro-ondes-25-l/1.webp",
+   "/images/products/four-micro-ondes-25-l/2.webp",
+   "/images/products/four-micro-ondes-25-l/3.webp",
+   "/images/products/four-micro-ondes-25-l/4.webp"
+  ]
+ },
+ {
+  "slug": "poele-antiadhesive-28-cm",
+  "name": "Poêle antiadhésive 28 cm",
+  "category": "maison-cuisine",
+  "subcategory": "cuisine",
+  "brand": "Baobab Kitchen",
+  "price": 15400,
+  "rating": 3.4,
+  "images": [
+   "/images/products/poele-antiadhesive-28-cm/1.webp"
+  ]
+ },
+ {
+  "slug": "marmite-inox-couvercle-verre",
+  "name": "Marmite inox couvercle verre",
+  "category": "maison-cuisine",
+  "subcategory": "cuisine",
+  "brand": "Baobab Kitchen",
+  "price": 24900,
+  "rating": 3.8,
+  "images": [
+   "/images/products/marmite-inox-couvercle-verre/1.webp"
+  ]
+ },
+ {
+  "slug": "etagere-a-epices",
+  "name": "Étagère à épices",
+  "category": "maison-cuisine",
+  "subcategory": "cuisine",
+  "brand": "Baobab Kitchen",
+  "price": 12400,
+  "rating": 5,
+  "images": [
+   "/images/products/etagere-a-epices/1.webp"
+  ]
+ },
+ {
+  "slug": "macbook-pro-14-gris-sideral",
+  "name": "MacBook Pro 14\" Gris sidéral",
+  "category": "electronique",
+  "subcategory": "ordinateurs-portables",
+  "brand": "Apple",
+  "price": 1229900,
+  "rating": 4.3,
+  "images": [
+   "/images/products/macbook-pro-14-gris-sideral/1.webp",
+   "/images/products/macbook-pro-14-gris-sideral/2.webp",
+   "/images/products/macbook-pro-14-gris-sideral/3.webp"
+  ]
+ },
+ {
+  "slug": "asus-zenbook-pro-duo",
+  "name": "Asus Zenbook Pro Duo",
+  "category": "electronique",
+  "subcategory": "ordinateurs-portables",
+  "brand": "Asus",
+  "price": 1109900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/asus-zenbook-pro-duo/1.webp",
+   "/images/products/asus-zenbook-pro-duo/2.webp",
+   "/images/products/asus-zenbook-pro-duo/3.webp"
+  ]
+ },
+ {
+  "slug": "huawei-matebook-x-pro",
+  "name": "Huawei MateBook X Pro",
+  "category": "electronique",
+  "subcategory": "ordinateurs-portables",
+  "brand": "Huawei",
+  "price": 864900,
+  "rating": 5,
+  "images": [
+   "/images/products/huawei-matebook-x-pro/1.webp",
+   "/images/products/huawei-matebook-x-pro/2.webp",
+   "/images/products/huawei-matebook-x-pro/3.webp"
+  ]
+ },
+ {
+  "slug": "lenovo-yoga-920",
+  "name": "Lenovo Yoga 920",
+  "category": "electronique",
+  "subcategory": "ordinateurs-portables",
+  "brand": "Lenovo",
+  "price": 679900,
+  "rating": 3.5,
+  "images": [
+   "/images/products/lenovo-yoga-920/1.webp",
+   "/images/products/lenovo-yoga-920/2.webp",
+   "/images/products/lenovo-yoga-920/3.webp"
+  ]
+ },
+ {
+  "slug": "dell-xps-13-9300",
+  "name": "Dell XPS 13 9300",
+  "category": "electronique",
+  "subcategory": "ordinateurs-portables",
+  "brand": "Dell",
+  "price": 924900,
+  "rating": 3.3,
+  "images": [
+   "/images/products/dell-xps-13-9300/1.webp",
+   "/images/products/dell-xps-13-9300/2.webp",
+   "/images/products/dell-xps-13-9300/3.webp"
+  ]
+ },
+ {
+  "slug": "chemise-a-carreaux-bleu-et-noir",
+  "name": "Chemise à carreaux bleu & noir",
+  "category": "mode-homme",
+  "subcategory": "chemises-tshirts",
+  "brand": "Fashion Trends",
+  "price": 18400,
+  "rating": 4.2,
+  "images": [
+   "/images/products/chemise-a-carreaux-bleu-et-noir/1.webp",
+   "/images/products/chemise-a-carreaux-bleu-et-noir/2.webp",
+   "/images/products/chemise-a-carreaux-bleu-et-noir/3.webp",
+   "/images/products/chemise-a-carreaux-bleu-et-noir/4.webp"
+  ]
+ },
+ {
+  "slug": "t-shirt-homme-aorus",
+  "name": "T-shirt homme Aorus",
+  "category": "mode-homme",
+  "subcategory": "chemises-tshirts",
+  "brand": "Gigabyte",
+  "price": 15400,
+  "rating": 3.8,
+  "images": [
+   "/images/products/t-shirt-homme-aorus/1.webp",
+   "/images/products/t-shirt-homme-aorus/2.webp",
+   "/images/products/t-shirt-homme-aorus/3.webp",
+   "/images/products/t-shirt-homme-aorus/4.webp"
+  ]
+ },
+ {
+  "slug": "chemise-ecossaise-homme",
+  "name": "Chemise écossaise homme",
+  "category": "mode-homme",
+  "subcategory": "chemises-tshirts",
+  "brand": "Classic Wear",
+  "price": 21900,
+  "rating": 4.1,
+  "images": [
+   "/images/products/chemise-ecossaise-homme/1.webp",
+   "/images/products/chemise-ecossaise-homme/2.webp",
+   "/images/products/chemise-ecossaise-homme/3.webp",
+   "/images/products/chemise-ecossaise-homme/4.webp"
+  ]
+ },
+ {
+  "slug": "chemise-manches-courtes-homme",
+  "name": "Chemise manches courtes homme",
+  "category": "mode-homme",
+  "subcategory": "chemises-tshirts",
+  "brand": "Casual Comfort",
+  "price": 12400,
+  "rating": 3.5,
+  "images": [
+   "/images/products/chemise-manches-courtes-homme/1.webp",
+   "/images/products/chemise-manches-courtes-homme/2.webp",
+   "/images/products/chemise-manches-courtes-homme/3.webp",
+   "/images/products/chemise-manches-courtes-homme/4.webp"
+  ]
+ },
+ {
+  "slug": "chemise-a-carreaux-homme",
+  "name": "Chemise à carreaux homme",
+  "category": "mode-homme",
+  "subcategory": "chemises-tshirts",
+  "brand": "Urban Chic",
+  "price": 17400,
+  "rating": 3.3,
+  "images": [
+   "/images/products/chemise-a-carreaux-homme/1.webp",
+   "/images/products/chemise-a-carreaux-homme/2.webp",
+   "/images/products/chemise-a-carreaux-homme/3.webp",
+   "/images/products/chemise-a-carreaux-homme/4.webp"
+  ]
+ },
+ {
+  "slug": "nike-air-jordan-1-rouge-et-noir",
+  "name": "Nike Air Jordan 1 Rouge & Noir",
+  "category": "mode-homme",
+  "subcategory": "chaussures-homme",
+  "brand": "Nike",
+  "price": 92400,
+  "rating": 5,
+  "images": [
+   "/images/products/nike-air-jordan-1-rouge-et-noir/1.webp",
+   "/images/products/nike-air-jordan-1-rouge-et-noir/2.webp",
+   "/images/products/nike-air-jordan-1-rouge-et-noir/3.webp",
+   "/images/products/nike-air-jordan-1-rouge-et-noir/4.webp"
+  ]
+ },
+ {
+  "slug": "crampons-nike-pro",
+  "name": "Crampons Nike Pro",
+  "category": "mode-homme",
+  "subcategory": "chaussures-homme",
+  "brand": "Nike",
+  "price": 49400,
+  "rating": 4.5,
+  "images": [
+   "/images/products/crampons-nike-pro/1.webp",
+   "/images/products/crampons-nike-pro/2.webp",
+   "/images/products/crampons-nike-pro/3.webp",
+   "/images/products/crampons-nike-pro/4.webp"
+  ]
+ },
+ {
+  "slug": "baskets-puma-future-rider",
+  "name": "Baskets Puma Future Rider",
+  "category": "mode-homme",
+  "subcategory": "chaussures-homme",
+  "brand": "Puma",
+  "price": 55400,
+  "rating": 5,
+  "images": [
+   "/images/products/baskets-puma-future-rider/1.webp",
+   "/images/products/baskets-puma-future-rider/2.webp",
+   "/images/products/baskets-puma-future-rider/3.webp",
+   "/images/products/baskets-puma-future-rider/4.webp"
+  ]
+ },
+ {
+  "slug": "sneakers-off-white-et-rouge",
+  "name": "Sneakers Off-White & Rouge",
+  "category": "mode-homme",
+  "subcategory": "chaussures-homme",
+  "brand": "Off White",
+  "price": 73900,
+  "rating": 5,
+  "images": [
+   "/images/products/sneakers-off-white-et-rouge/1.webp",
+   "/images/products/sneakers-off-white-et-rouge/2.webp",
+   "/images/products/sneakers-off-white-et-rouge/3.webp",
+   "/images/products/sneakers-off-white-et-rouge/4.webp"
+  ]
+ },
+ {
+  "slug": "montre-bracelet-cuir-marron",
+  "name": "Montre bracelet cuir marron",
+  "category": "mode-homme",
+  "subcategory": "montres-homme",
+  "brand": "Fashion Timepieces",
+  "price": 55400,
+  "rating": 4.8,
+  "images": [
+   "/images/products/montre-bracelet-cuir-marron/1.webp",
+   "/images/products/montre-bracelet-cuir-marron/2.webp",
+   "/images/products/montre-bracelet-cuir-marron/3.webp"
+  ]
+ },
+ {
+  "slug": "longines-master-collection",
+  "name": "Longines Master Collection",
+  "category": "mode-homme",
+  "subcategory": "montres-homme",
+  "brand": "Longines",
+  "price": 924900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/longines-master-collection/1.webp",
+   "/images/products/longines-master-collection/2.webp",
+   "/images/products/longines-master-collection/3.webp"
+  ]
+ },
+ {
+  "slug": "rolex-datejust",
+  "name": "Rolex Datejust",
+  "category": "mode-homme",
+  "subcategory": "montres-homme",
+  "brand": "Rolex",
+  "price": 6764900,
+  "rating": 4.3,
+  "images": [
+   "/images/products/rolex-datejust/1.webp",
+   "/images/products/rolex-datejust/2.webp",
+   "/images/products/rolex-datejust/3.webp"
+  ]
+ },
+ {
+  "slug": "rolex-submariner",
+  "name": "Rolex Submariner",
+  "category": "mode-homme",
+  "subcategory": "montres-homme",
+  "brand": "Rolex",
+  "price": 8609900,
+  "rating": 3.3,
+  "images": [
+   "/images/products/rolex-submariner/1.webp",
+   "/images/products/rolex-submariner/2.webp",
+   "/images/products/rolex-submariner/3.webp"
+  ]
+ },
+ {
+  "slug": "enceinte-connectee-echo-plus",
+  "name": "Enceinte connectée Echo Plus",
+  "category": "electronique",
+  "subcategory": "audio",
+  "brand": "Amazon",
+  "price": 61400,
+  "rating": 5,
+  "images": [
+   "/images/products/enceinte-connectee-echo-plus/1.webp",
+   "/images/products/enceinte-connectee-echo-plus/2.webp"
+  ]
+ },
+ {
+  "slug": "apple-airpods",
+  "name": "Apple AirPods",
+  "category": "electronique",
+  "subcategory": "audio",
+  "brand": "Apple",
+  "price": 79900,
+  "rating": 4.8,
+  "images": [
+   "/images/products/apple-airpods/1.webp",
+   "/images/products/apple-airpods/2.webp",
+   "/images/products/apple-airpods/3.webp"
+  ]
+ },
+ {
+  "slug": "apple-airpods-max-argent",
+  "name": "Apple AirPods Max Argent",
+  "category": "electronique",
+  "subcategory": "audio",
+  "brand": "Apple",
+  "price": 339900,
+  "rating": 4.1,
+  "images": [
+   "/images/products/apple-airpods-max-argent/1.webp"
+  ]
+ },
+ {
+  "slug": "chargeur-sans-fil-airpower",
+  "name": "Chargeur sans fil Airpower",
+  "category": "telephones-tablettes",
+  "subcategory": "accessoires-telephone",
+  "brand": "Apple",
+  "price": 49400,
+  "rating": 4.3,
+  "images": [
+   "/images/products/chargeur-sans-fil-airpower/1.webp"
+  ]
+ },
+ {
+  "slug": "apple-homepod-mini-gris-cosmique",
+  "name": "Apple HomePod mini Gris cosmique",
+  "category": "electronique",
+  "subcategory": "audio",
+  "brand": "Apple",
+  "price": 61400,
+  "rating": 5,
+  "images": [
+   "/images/products/apple-homepod-mini-gris-cosmique/1.webp"
+  ]
+ },
+ {
+  "slug": "chargeur-rapide-iphone-20w",
+  "name": "Chargeur rapide iPhone 20W",
+  "category": "telephones-tablettes",
+  "subcategory": "accessoires-telephone",
+  "brand": "Apple",
+  "price": 12400,
+  "rating": 4.8,
+  "images": [
+   "/images/products/chargeur-rapide-iphone-20w/1.webp",
+   "/images/products/chargeur-rapide-iphone-20w/2.webp"
+  ]
+ },
+ {
+  "slug": "batterie-magsafe-apple",
+  "name": "Batterie MagSafe Apple",
+  "category": "telephones-tablettes",
+  "subcategory": "accessoires-telephone",
+  "brand": "Apple",
+  "price": 61400,
+  "rating": 4.2,
+  "images": [
+   "/images/products/batterie-magsafe-apple/1.webp",
+   "/images/products/batterie-magsafe-apple/2.webp"
+  ]
+ },
+ {
+  "slug": "apple-watch-series-4-or",
+  "name": "Apple Watch Series 4 Or",
+  "category": "electronique",
+  "subcategory": "objets-connectes",
+  "brand": "Apple",
+  "price": 219900,
+  "rating": 3.3,
+  "images": [
+   "/images/products/apple-watch-series-4-or/1.webp",
+   "/images/products/apple-watch-series-4-or/2.webp",
+   "/images/products/apple-watch-series-4-or/3.webp"
+  ]
+ },
+ {
+  "slug": "ecouteurs-sans-fil-beats-flex",
+  "name": "Écouteurs sans fil Beats Flex",
+  "category": "electronique",
+  "subcategory": "audio",
+  "brand": "Beats",
+  "price": 30900,
+  "rating": 4.8,
+  "images": [
+   "/images/products/ecouteurs-sans-fil-beats-flex/1.webp"
+  ]
+ },
+ {
+  "slug": "coque-silicone-magsafe-iphone-12-prune",
+  "name": "Coque silicone MagSafe iPhone 12 Prune",
+  "category": "telephones-tablettes",
+  "subcategory": "accessoires-telephone",
+  "brand": "Apple",
+  "price": 18400,
+  "rating": 4.2,
+  "images": [
+   "/images/products/coque-silicone-magsafe-iphone-12-prune/1.webp",
+   "/images/products/coque-silicone-magsafe-iphone-12-prune/2.webp",
+   "/images/products/coque-silicone-magsafe-iphone-12-prune/3.webp",
+   "/images/products/coque-silicone-magsafe-iphone-12-prune/4.webp"
+  ]
+ },
+ {
+  "slug": "anneau-lumineux-selfie",
+  "name": "Anneau lumineux selfie",
+  "category": "telephones-tablettes",
+  "subcategory": "accessoires-telephone",
+  "brand": "GadgetMaster",
+  "price": 9400,
+  "rating": 4.1,
+  "images": [
+   "/images/products/anneau-lumineux-selfie/1.webp"
+  ]
+ },
+ {
+  "slug": "perche-a-selfie-bluetooth",
+  "name": "Perche à selfie Bluetooth",
+  "category": "telephones-tablettes",
+  "subcategory": "accessoires-telephone",
+  "brand": "SnapTech",
+  "price": 7900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/perche-a-selfie-bluetooth/1.webp"
+  ]
+ },
+ {
+  "slug": "moto-routiere-150cc",
+  "name": "Moto routière 150cc",
+  "category": "auto-moto",
+  "subcategory": "motos-scooters",
+  "brand": "Generic Motors",
+  "price": 2459900,
+  "rating": 5,
+  "images": [
+   "/images/products/moto-routiere-150cc/1.webp",
+   "/images/products/moto-routiere-150cc/2.webp",
+   "/images/products/moto-routiere-150cc/3.webp",
+   "/images/products/moto-routiere-150cc/4.webp"
+  ]
+ },
+ {
+  "slug": "kawasaki-z800",
+  "name": "Kawasaki Z800",
+  "category": "auto-moto",
+  "subcategory": "motos-scooters",
+  "brand": "Kawasaki",
+  "price": 5534900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/kawasaki-z800/1.webp",
+   "/images/products/kawasaki-z800/2.webp",
+   "/images/products/kawasaki-z800/3.webp",
+   "/images/products/kawasaki-z800/4.webp"
+  ]
+ },
+ {
+  "slug": "scooter-urbain-125cc",
+  "name": "Scooter urbain 125cc",
+  "category": "auto-moto",
+  "subcategory": "motos-scooters",
+  "brand": "ScootMaster",
+  "price": 1844900,
+  "rating": 3.2,
+  "images": [
+   "/images/products/scooter-urbain-125cc/1.webp",
+   "/images/products/scooter-urbain-125cc/2.webp",
+   "/images/products/scooter-urbain-125cc/3.webp",
+   "/images/products/scooter-urbain-125cc/4.webp"
+  ]
+ },
+ {
+  "slug": "moto-sportive-250cc",
+  "name": "Moto sportive 250cc",
+  "category": "auto-moto",
+  "subcategory": "motos-scooters",
+  "brand": "SpeedMaster",
+  "price": 4614900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/moto-sportive-250cc/1.webp",
+   "/images/products/moto-sportive-250cc/2.webp",
+   "/images/products/moto-sportive-250cc/3.webp",
+   "/images/products/moto-sportive-250cc/4.webp"
+  ]
+ },
+ {
+  "slug": "savon-mains-attitude",
+  "name": "Savon mains Attitude",
+  "category": "beaute-sante",
+  "subcategory": "soins-corps",
+  "brand": "Attitude",
+  "price": 5900,
+  "rating": 3.8,
+  "images": [
+   "/images/products/savon-mains-attitude/1.webp",
+   "/images/products/savon-mains-attitude/2.webp",
+   "/images/products/savon-mains-attitude/3.webp"
+  ]
+ },
+ {
+  "slug": "gel-douche-olay-beurre-de-karite",
+  "name": "Gel douche Olay beurre de karité",
+  "category": "beaute-sante",
+  "subcategory": "soins-corps",
+  "brand": "Olay",
+  "price": 7900,
+  "rating": 5,
+  "images": [
+   "/images/products/gel-douche-olay-beurre-de-karite/1.webp",
+   "/images/products/gel-douche-olay-beurre-de-karite/2.webp",
+   "/images/products/gel-douche-olay-beurre-de-karite/3.webp"
+  ]
+ },
+ {
+  "slug": "lotion-vaseline-men-corps-et-visage",
+  "name": "Lotion Vaseline Men corps & visage",
+  "category": "beaute-sante",
+  "subcategory": "soins-corps",
+  "brand": "Vaseline",
+  "price": 6400,
+  "rating": 3.8,
+  "images": [
+   "/images/products/lotion-vaseline-men-corps-et-visage/1.webp",
+   "/images/products/lotion-vaseline-men-corps-et-visage/2.webp",
+   "/images/products/lotion-vaseline-men-corps-et-visage/3.webp"
+  ]
+ },
+ {
+  "slug": "iphone-6-reconditionne",
+  "name": "iPhone 6 Reconditionné",
+  "category": "telephones-tablettes",
+  "subcategory": "smartphones",
+  "brand": "Apple",
+  "price": 184900,
+  "rating": 4,
+  "images": [
+   "/images/products/iphone-6-reconditionne/1.webp",
+   "/images/products/iphone-6-reconditionne/2.webp",
+   "/images/products/iphone-6-reconditionne/3.webp"
+  ]
+ },
+ {
+  "slug": "iphone-13-pro",
+  "name": "iPhone 13 Pro",
+  "category": "telephones-tablettes",
+  "subcategory": "smartphones",
+  "brand": "Apple",
+  "price": 679900,
+  "rating": 4.7,
+  "images": [
+   "/images/products/iphone-13-pro/1.webp",
+   "/images/products/iphone-13-pro/2.webp",
+   "/images/products/iphone-13-pro/3.webp"
+  ]
+ },
+ {
+  "slug": "iphone-x-reconditionne",
+  "name": "iPhone X Reconditionné",
+  "category": "telephones-tablettes",
+  "subcategory": "smartphones",
+  "brand": "Apple",
+  "price": 554900,
+  "rating": 3.2,
+  "images": [
+   "/images/products/iphone-x-reconditionne/1.webp",
+   "/images/products/iphone-x-reconditionne/2.webp",
+   "/images/products/iphone-x-reconditionne/3.webp"
+  ]
+ },
+ {
+  "slug": "oppo-a57",
+  "name": "Oppo A57",
+  "category": "telephones-tablettes",
+  "subcategory": "smartphones",
+  "brand": "Oppo",
+  "price": 154900,
+  "rating": 4.5,
+  "images": [
+   "/images/products/oppo-a57/1.webp",
+   "/images/products/oppo-a57/2.webp",
+   "/images/products/oppo-a57/3.webp"
+  ]
+ },
+ {
+  "slug": "oppo-f19-pro-5g",
+  "name": "Oppo F19 Pro+ 5G",
+  "category": "telephones-tablettes",
+  "subcategory": "smartphones",
+  "brand": "Oppo",
+  "price": 249900,
+  "rating": 4.1,
+  "images": [
+   "/images/products/oppo-f19-pro-5g/1.webp",
+   "/images/products/oppo-f19-pro-5g/2.webp",
+   "/images/products/oppo-f19-pro-5g/3.webp"
+  ]
+ },
+ {
+  "slug": "oppo-k1",
+  "name": "Oppo K1",
+  "category": "telephones-tablettes",
+  "subcategory": "smartphones",
+  "brand": "Oppo",
+  "price": 184900,
+  "rating": 4.9,
+  "images": [
+   "/images/products/oppo-k1/1.webp",
+   "/images/products/oppo-k1/2.webp",
+   "/images/products/oppo-k1/3.webp",
+   "/images/products/oppo-k1/4.webp"
+  ]
+ },
+ {
+  "slug": "realme-c35",
+  "name": "Realme C35",
+  "category": "telephones-tablettes",
+  "subcategory": "smartphones",
+  "brand": "Realme",
+  "price": 92400,
+  "rating": 4.8,
+  "images": [
+   "/images/products/realme-c35/1.webp",
+   "/images/products/realme-c35/2.webp",
+   "/images/products/realme-c35/3.webp"
+  ]
+ },
+ {
+  "slug": "realme-x",
+  "name": "Realme X",
+  "category": "telephones-tablettes",
+  "subcategory": "smartphones",
+  "brand": "Realme",
+  "price": 184900,
+  "rating": 4.3,
+  "images": [
+   "/images/products/realme-x/1.webp",
+   "/images/products/realme-x/2.webp",
+   "/images/products/realme-x/3.webp"
+  ]
+ },
+ {
+  "slug": "realme-xt",
+  "name": "Realme XT",
+  "category": "telephones-tablettes",
+  "subcategory": "smartphones",
+  "brand": "Realme",
+  "price": 219900,
+  "rating": 5,
+  "images": [
+   "/images/products/realme-xt/1.webp",
+   "/images/products/realme-xt/2.webp",
+   "/images/products/realme-xt/3.webp"
+  ]
+ },
+ {
+  "slug": "samsung-galaxy-s7-edge",
+  "name": "Samsung Galaxy S7 Edge",
+  "category": "telephones-tablettes",
+  "subcategory": "smartphones",
+  "brand": "Samsung",
+  "price": 184900,
+  "rating": 3.9,
+  "images": [
+   "/images/products/samsung-galaxy-s7-edge/1.webp",
+   "/images/products/samsung-galaxy-s7-edge/2.webp",
+   "/images/products/samsung-galaxy-s7-edge/3.webp"
+  ]
+ },
+ {
+  "slug": "samsung-galaxy-s8",
+  "name": "Samsung Galaxy S8",
+  "category": "telephones-tablettes",
+  "subcategory": "smartphones",
+  "brand": "Samsung",
+  "price": 309900,
+  "rating": 5,
+  "images": [
+   "/images/products/samsung-galaxy-s8/1.webp",
+   "/images/products/samsung-galaxy-s8/2.webp",
+   "/images/products/samsung-galaxy-s8/3.webp"
+  ]
+ },
+ {
+  "slug": "samsung-galaxy-s10",
+  "name": "Samsung Galaxy S10",
+  "category": "telephones-tablettes",
+  "subcategory": "smartphones",
+  "brand": "Samsung",
+  "price": 434900,
+  "rating": 3.7,
+  "images": [
+   "/images/products/samsung-galaxy-s10/1.webp",
+   "/images/products/samsung-galaxy-s10/2.webp",
+   "/images/products/samsung-galaxy-s10/3.webp"
+  ]
+ },
+ {
+  "slug": "vivo-s1",
+  "name": "Vivo S1",
+  "category": "telephones-tablettes",
+  "subcategory": "smartphones",
+  "brand": "Vivo",
+  "price": 154900,
+  "rating": 4.1,
+  "images": [
+   "/images/products/vivo-s1/1.webp",
+   "/images/products/vivo-s1/2.webp",
+   "/images/products/vivo-s1/3.webp"
+  ]
+ },
+ {
+  "slug": "vivo-v9",
+  "name": "Vivo V9",
+  "category": "telephones-tablettes",
+  "subcategory": "smartphones",
+  "brand": "Vivo",
+  "price": 184900,
+  "rating": 4.2,
+  "images": [
+   "/images/products/vivo-v9/1.webp",
+   "/images/products/vivo-v9/2.webp",
+   "/images/products/vivo-v9/3.webp"
+  ]
+ },
+ {
+  "slug": "vivo-x21",
+  "name": "Vivo X21",
+  "category": "telephones-tablettes",
+  "subcategory": "smartphones",
+  "brand": "Vivo",
+  "price": 309900,
+  "rating": 4.9,
+  "images": [
+   "/images/products/vivo-x21/1.webp",
+   "/images/products/vivo-x21/2.webp",
+   "/images/products/vivo-x21/3.webp"
+  ]
+ },
+ {
+  "slug": "gant-de-baseball",
+  "name": "Gant de baseball",
+  "category": "sport-loisirs",
+  "subcategory": "sports-collectifs",
+  "brand": "Ivoire Sport",
+  "price": 15400,
+  "rating": 4.6,
+  "images": [
+   "/images/products/gant-de-baseball/1.webp",
+   "/images/products/gant-de-baseball/2.webp",
+   "/images/products/gant-de-baseball/3.webp"
+  ]
+ },
+ {
+  "slug": "ballon-de-basketball",
+  "name": "Ballon de basketball",
+  "category": "sport-loisirs",
+  "subcategory": "sports-collectifs",
+  "brand": "Ivoire Sport",
+  "price": 9400,
+  "rating": 5,
+  "images": [
+   "/images/products/ballon-de-basketball/1.webp"
+  ]
+ },
+ {
+  "slug": "panier-de-basket-mural",
+  "name": "Panier de basket mural",
+  "category": "sport-loisirs",
+  "subcategory": "sports-collectifs",
+  "brand": "Ivoire Sport",
+  "price": 24900,
+  "rating": 5,
+  "images": [
+   "/images/products/panier-de-basket-mural/1.webp"
+  ]
+ },
+ {
+  "slug": "volants-de-badminton-x6",
+  "name": "Volants de badminton x6",
+  "category": "sport-loisirs",
+  "subcategory": "raquettes-golf",
+  "brand": "Ivoire Sport",
+  "price": 3700,
+  "rating": 3.5,
+  "images": [
+   "/images/products/volants-de-badminton-x6/1.webp"
+  ]
+ },
+ {
+  "slug": "ballon-de-football",
+  "name": "Ballon de football",
+  "category": "sport-loisirs",
+  "subcategory": "sports-collectifs",
+  "brand": "Ivoire Sport",
+  "price": 11400,
+  "rating": 3.9,
+  "images": [
+   "/images/products/ballon-de-football/1.webp"
+  ]
+ },
+ {
+  "slug": "club-de-golf-fer",
+  "name": "Club de golf fer",
+  "category": "sport-loisirs",
+  "subcategory": "raquettes-golf",
+  "brand": "Ivoire Sport",
+  "price": 30900,
+  "rating": 5,
+  "images": [
+   "/images/products/club-de-golf-fer/1.webp"
+  ]
+ },
+ {
+  "slug": "balles-de-tennis-x3",
+  "name": "Balles de tennis x3",
+  "category": "sport-loisirs",
+  "subcategory": "raquettes-golf",
+  "brand": "Ivoire Sport",
+  "price": 4300,
+  "rating": 4.7,
+  "images": [
+   "/images/products/balles-de-tennis-x3/1.webp"
+  ]
+ },
+ {
+  "slug": "raquette-de-tennis",
+  "name": "Raquette de tennis",
+  "category": "sport-loisirs",
+  "subcategory": "raquettes-golf",
+  "brand": "Ivoire Sport",
+  "price": 30900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/raquette-de-tennis/1.webp"
+  ]
+ },
+ {
+  "slug": "ballon-de-volleyball",
+  "name": "Ballon de volleyball",
+  "category": "sport-loisirs",
+  "subcategory": "sports-collectifs",
+  "brand": "Ivoire Sport",
+  "price": 7400,
+  "rating": 4.4,
+  "images": [
+   "/images/products/ballon-de-volleyball/1.webp"
+  ]
+ },
+ {
+  "slug": "lunettes-de-soleil-noires",
+  "name": "Lunettes de soleil noires",
+  "category": "mode-homme",
+  "subcategory": "accessoires-homme",
+  "brand": "Fashion Shades",
+  "price": 18400,
+  "rating": 5,
+  "images": [
+   "/images/products/lunettes-de-soleil-noires/1.webp",
+   "/images/products/lunettes-de-soleil-noires/2.webp",
+   "/images/products/lunettes-de-soleil-noires/3.webp"
+  ]
+ },
+ {
+  "slug": "lunettes-de-soleil-classiques",
+  "name": "Lunettes de soleil classiques",
+  "category": "mode-homme",
+  "subcategory": "accessoires-homme",
+  "brand": "Fashion Shades",
+  "price": 15400,
+  "rating": 4.5,
+  "images": [
+   "/images/products/lunettes-de-soleil-classiques/1.webp",
+   "/images/products/lunettes-de-soleil-classiques/2.webp",
+   "/images/products/lunettes-de-soleil-classiques/3.webp"
+  ]
+ },
+ {
+  "slug": "lunettes-vert-et-noir",
+  "name": "Lunettes vert & noir",
+  "category": "mode-homme",
+  "subcategory": "accessoires-homme",
+  "brand": "Fashion Shades",
+  "price": 21900,
+  "rating": 5,
+  "images": [
+   "/images/products/lunettes-vert-et-noir/1.webp",
+   "/images/products/lunettes-vert-et-noir/2.webp",
+   "/images/products/lunettes-vert-et-noir/3.webp"
+  ]
+ },
+ {
+  "slug": "ipad-mini-2021-lumiere-stellaire",
+  "name": "iPad Mini 2021 Lumière stellaire",
+  "category": "telephones-tablettes",
+  "subcategory": "tablettes",
+  "brand": "Apple",
+  "price": 309900,
+  "rating": 3.8,
+  "images": [
+   "/images/products/ipad-mini-2021-lumiere-stellaire/1.webp",
+   "/images/products/ipad-mini-2021-lumiere-stellaire/2.webp",
+   "/images/products/ipad-mini-2021-lumiere-stellaire/3.webp",
+   "/images/products/ipad-mini-2021-lumiere-stellaire/4.webp"
+  ]
+ },
+ {
+  "slug": "samsung-galaxy-tab-s8-gris",
+  "name": "Samsung Galaxy Tab S8+ Gris",
+  "category": "telephones-tablettes",
+  "subcategory": "tablettes",
+  "brand": "Samsung",
+  "price": 369900,
+  "rating": 5,
+  "images": [
+   "/images/products/samsung-galaxy-tab-s8-gris/1.webp",
+   "/images/products/samsung-galaxy-tab-s8-gris/2.webp",
+   "/images/products/samsung-galaxy-tab-s8-gris/3.webp",
+   "/images/products/samsung-galaxy-tab-s8-gris/4.webp"
+  ]
+ },
+ {
+  "slug": "samsung-galaxy-tab-blanche",
+  "name": "Samsung Galaxy Tab Blanche",
+  "category": "telephones-tablettes",
+  "subcategory": "tablettes",
+  "brand": "Samsung",
+  "price": 219900,
+  "rating": 4.3,
+  "images": [
+   "/images/products/samsung-galaxy-tab-blanche/1.webp",
+   "/images/products/samsung-galaxy-tab-blanche/2.webp",
+   "/images/products/samsung-galaxy-tab-blanche/3.webp",
+   "/images/products/samsung-galaxy-tab-blanche/4.webp"
+  ]
+ },
+ {
+  "slug": "robe-bleue-evasee",
+  "name": "Robe bleue évasée",
+  "category": "mode-femme",
+  "subcategory": "hauts-robes-ete",
+  "brand": "Wax & Co",
+  "price": 18400,
+  "rating": 4.8,
+  "images": [
+   "/images/products/robe-bleue-evasee/1.webp",
+   "/images/products/robe-bleue-evasee/2.webp",
+   "/images/products/robe-bleue-evasee/3.webp",
+   "/images/products/robe-bleue-evasee/4.webp"
+  ]
+ },
+ {
+  "slug": "robe-d-ete-legere",
+  "name": "Robe d'été légère",
+  "category": "mode-femme",
+  "subcategory": "hauts-robes-ete",
+  "brand": "Wax & Co",
+  "price": 12400,
+  "rating": 5,
+  "images": [
+   "/images/products/robe-d-ete-legere/1.webp",
+   "/images/products/robe-d-ete-legere/2.webp",
+   "/images/products/robe-d-ete-legere/3.webp",
+   "/images/products/robe-d-ete-legere/4.webp"
+  ]
+ },
+ {
+  "slug": "robe-grise-casual",
+  "name": "Robe grise casual",
+  "category": "mode-femme",
+  "subcategory": "hauts-robes-ete",
+  "brand": "Pagne Chic",
+  "price": 21900,
+  "rating": 3.3,
+  "images": [
+   "/images/products/robe-grise-casual/1.webp",
+   "/images/products/robe-grise-casual/2.webp",
+   "/images/products/robe-grise-casual/3.webp",
+   "/images/products/robe-grise-casual/4.webp"
+  ]
+ },
+ {
+  "slug": "robe-tartan",
+  "name": "Robe tartan",
+  "category": "mode-femme",
+  "subcategory": "hauts-robes-ete",
+  "brand": "Pagne Chic",
+  "price": 24900,
+  "rating": 4.6,
+  "images": [
+   "/images/products/robe-tartan/1.webp",
+   "/images/products/robe-tartan/2.webp",
+   "/images/products/robe-tartan/3.webp",
+   "/images/products/robe-tartan/4.webp"
+  ]
+ },
+ {
+  "slug": "sac-a-main-bleu",
+  "name": "Sac à main bleu",
+  "category": "mode-femme",
+  "subcategory": "sacs",
+  "brand": "Fashionista",
+  "price": 30900,
+  "rating": 3.5,
+  "images": [
+   "/images/products/sac-a-main-bleu/1.webp",
+   "/images/products/sac-a-main-bleu/2.webp",
+   "/images/products/sac-a-main-bleu/3.webp"
+  ]
+ },
+ {
+  "slug": "sac-cuir-heshe",
+  "name": "Sac cuir Heshe",
+  "category": "mode-femme",
+  "subcategory": "sacs",
+  "brand": "Heshe",
+  "price": 79900,
+  "rating": 5,
+  "images": [
+   "/images/products/sac-cuir-heshe/1.webp",
+   "/images/products/sac-cuir-heshe/2.webp",
+   "/images/products/sac-cuir-heshe/3.webp"
+  ]
+ },
+ {
+  "slug": "sac-prada-femme",
+  "name": "Sac Prada femme",
+  "category": "mode-femme",
+  "subcategory": "sacs",
+  "brand": "Prada",
+  "price": 369900,
+  "rating": 3.3,
+  "images": [
+   "/images/products/sac-prada-femme/1.webp",
+   "/images/products/sac-prada-femme/2.webp",
+   "/images/products/sac-prada-femme/3.webp"
+  ]
+ },
+ {
+  "slug": "sac-a-dos-simili-cuir-blanc",
+  "name": "Sac à dos simili cuir blanc",
+  "category": "mode-femme",
+  "subcategory": "sacs",
+  "brand": "Urban Chic",
+  "price": 24900,
+  "rating": 4,
+  "images": [
+   "/images/products/sac-a-dos-simili-cuir-blanc/1.webp",
+   "/images/products/sac-a-dos-simili-cuir-blanc/2.webp",
+   "/images/products/sac-a-dos-simili-cuir-blanc/3.webp"
+  ]
+ },
+ {
+  "slug": "sac-a-main-noir",
+  "name": "Sac à main noir",
+  "category": "mode-femme",
+  "subcategory": "sacs",
+  "brand": "Elegance Collection",
+  "price": 36900,
+  "rating": 3.5,
+  "images": [
+   "/images/products/sac-a-main-noir/1.webp",
+   "/images/products/sac-a-main-noir/2.webp",
+   "/images/products/sac-a-main-noir/3.webp"
+  ]
+ },
+ {
+  "slug": "robe-de-soiree-noire",
+  "name": "Robe de soirée noire",
+  "category": "mode-femme",
+  "subcategory": "robes",
+  "brand": "Pagne Chic",
+  "price": 79900,
+  "rating": 4.2,
+  "images": [
+   "/images/products/robe-de-soiree-noire/1.webp",
+   "/images/products/robe-de-soiree-noire/2.webp",
+   "/images/products/robe-de-soiree-noire/3.webp",
+   "/images/products/robe-de-soiree-noire/4.webp"
+  ]
+ },
+ {
+  "slug": "ensemble-corset-cuir-et-jupe",
+  "name": "Ensemble corset cuir & jupe",
+  "category": "mode-femme",
+  "subcategory": "robes",
+  "brand": "Pagne Chic",
+  "price": 55400,
+  "rating": 3.7,
+  "images": [
+   "/images/products/ensemble-corset-cuir-et-jupe/1.webp",
+   "/images/products/ensemble-corset-cuir-et-jupe/2.webp",
+   "/images/products/ensemble-corset-cuir-et-jupe/3.webp",
+   "/images/products/ensemble-corset-cuir-et-jupe/4.webp"
+  ]
+ },
+ {
+  "slug": "robe-pea-fleurie",
+  "name": "Robe Pea fleurie",
+  "category": "mode-femme",
+  "subcategory": "robes",
+  "brand": "Wax & Co",
+  "price": 30900,
+  "rating": 5,
+  "images": [
+   "/images/products/robe-pea-fleurie/1.webp",
+   "/images/products/robe-pea-fleurie/2.webp",
+   "/images/products/robe-pea-fleurie/3.webp",
+   "/images/products/robe-pea-fleurie/4.webp"
+  ]
+ },
+ {
+  "slug": "tailleur-rouge-et-noir",
+  "name": "Tailleur rouge & noir",
+  "category": "mode-femme",
+  "subcategory": "robes",
+  "brand": "Wax & Co",
+  "price": 114900,
+  "rating": 5,
+  "images": [
+   "/images/products/tailleur-rouge-et-noir/1.webp",
+   "/images/products/tailleur-rouge-et-noir/2.webp",
+   "/images/products/tailleur-rouge-et-noir/3.webp",
+   "/images/products/tailleur-rouge-et-noir/4.webp"
+  ]
+ },
+ {
+  "slug": "boucles-d-oreilles-cristal-vert",
+  "name": "Boucles d'oreilles cristal vert",
+  "category": "mode-femme",
+  "subcategory": "bijoux",
+  "brand": "Akwaba Bijoux",
+  "price": 18400,
+  "rating": 4.6,
+  "images": [
+   "/images/products/boucles-d-oreilles-cristal-vert/1.webp",
+   "/images/products/boucles-d-oreilles-cristal-vert/2.webp",
+   "/images/products/boucles-d-oreilles-cristal-vert/3.webp"
+  ]
+ },
+ {
+  "slug": "boucles-d-oreilles-ovales-vertes",
+  "name": "Boucles d'oreilles ovales vertes",
+  "category": "mode-femme",
+  "subcategory": "bijoux",
+  "brand": "Akwaba Bijoux",
+  "price": 15400,
+  "rating": 4.2,
+  "images": [
+   "/images/products/boucles-d-oreilles-ovales-vertes/1.webp",
+   "/images/products/boucles-d-oreilles-ovales-vertes/2.webp",
+   "/images/products/boucles-d-oreilles-ovales-vertes/3.webp"
+  ]
+ },
+ {
+  "slug": "boucles-d-oreilles-tropical",
+  "name": "Boucles d'oreilles Tropical",
+  "category": "mode-femme",
+  "subcategory": "bijoux",
+  "brand": "Akwaba Bijoux",
+  "price": 12400,
+  "rating": 5,
+  "images": [
+   "/images/products/boucles-d-oreilles-tropical/1.webp",
+   "/images/products/boucles-d-oreilles-tropical/2.webp",
+   "/images/products/boucles-d-oreilles-tropical/3.webp"
+  ]
+ },
+ {
+  "slug": "escarpins-calvin-klein",
+  "name": "Escarpins Calvin Klein",
+  "category": "mode-femme",
+  "subcategory": "chaussures-femme",
+  "brand": "Calvin Klein",
+  "price": 49400,
+  "rating": 5,
+  "images": [
+   "/images/products/escarpins-calvin-klein/1.webp",
+   "/images/products/escarpins-calvin-klein/2.webp",
+   "/images/products/escarpins-calvin-klein/3.webp",
+   "/images/products/escarpins-calvin-klein/4.webp"
+  ]
+ },
+ {
+  "slug": "sandales-dorees-femme",
+  "name": "Sandales dorées femme",
+  "category": "mode-femme",
+  "subcategory": "chaussures-femme",
+  "brand": "Fashion Diva",
+  "price": 30900,
+  "rating": 3.9,
+  "images": [
+   "/images/products/sandales-dorees-femme/1.webp",
+   "/images/products/sandales-dorees-femme/2.webp",
+   "/images/products/sandales-dorees-femme/3.webp",
+   "/images/products/sandales-dorees-femme/4.webp"
+  ]
+ },
+ {
+  "slug": "ballerines-pampi",
+  "name": "Ballerines Pampi",
+  "category": "mode-femme",
+  "subcategory": "chaussures-femme",
+  "brand": "Pampi",
+  "price": 18400,
+  "rating": 3.7,
+  "images": [
+   "/images/products/ballerines-pampi/1.webp",
+   "/images/products/ballerines-pampi/2.webp",
+   "/images/products/ballerines-pampi/3.webp",
+   "/images/products/ballerines-pampi/4.webp"
+  ]
+ },
+ {
+  "slug": "escarpins-rouges",
+  "name": "Escarpins rouges",
+  "category": "mode-femme",
+  "subcategory": "chaussures-femme",
+  "brand": "Fashion Express",
+  "price": 21900,
+  "rating": 3.9,
+  "images": [
+   "/images/products/escarpins-rouges/1.webp",
+   "/images/products/escarpins-rouges/2.webp",
+   "/images/products/escarpins-rouges/3.webp",
+   "/images/products/escarpins-rouges/4.webp"
+  ]
+ },
+ {
+  "slug": "iwc-ingenieur-automatique",
+  "name": "IWC Ingenieur Automatique",
+  "category": "mode-femme",
+  "subcategory": "montres-femme",
+  "brand": "IWC",
+  "price": 3074900,
+  "rating": 3.5,
+  "images": [
+   "/images/products/iwc-ingenieur-automatique/1.webp",
+   "/images/products/iwc-ingenieur-automatique/2.webp",
+   "/images/products/iwc-ingenieur-automatique/3.webp"
+  ]
+ },
+ {
+  "slug": "rolex-datejust-femme",
+  "name": "Rolex Datejust Femme",
+  "category": "mode-femme",
+  "subcategory": "montres-femme",
+  "brand": "Rolex",
+  "price": 6764900,
+  "rating": 3.5,
+  "images": [
+   "/images/products/rolex-datejust-femme/1.webp",
+   "/images/products/rolex-datejust-femme/2.webp",
+   "/images/products/rolex-datejust-femme/3.webp"
+  ]
+ },
+ {
+  "slug": "montre-doree-femme",
+  "name": "Montre dorée femme",
+  "category": "mode-femme",
+  "subcategory": "montres-femme",
+  "brand": "Fashion Gold",
+  "price": 494900,
+  "rating": 4.8,
+  "images": [
+   "/images/products/montre-doree-femme/1.webp",
+   "/images/products/montre-doree-femme/2.webp",
+   "/images/products/montre-doree-femme/3.webp"
+  ]
+ }
+]
